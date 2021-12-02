@@ -1,7 +1,7 @@
 body {
     /* Mudar cor do fundo */
     background: rgb(3,2,27);
-    background: radial-gradient(circle, rgba(3,2,27,1) 15%, rgba(11,11,17,1) 86%, rgba(0,0,0,1) 100%);
+    background: radial-gradient(circle, rgba(254,196,5,1) 15%, rgba(247,168,22,1) 86%, rgba(230,91,23,1) 100%);
     /* Mudar família da fonte */
     font-family:'Montserrat', sans-serif!important;
     /* Mudar cor da fonte */
