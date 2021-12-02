@@ -55,9 +55,9 @@ body {
 /* BOTÃO */
 .botao {
     /* Mudar cor da fonte do botão */
-    color: #000000;
+    color: rgba(230,91,23,1);
     /* Mudar cor de fundo do botão */
-    background-color: #ffffff;
+    background-color: rgb(3,2,27);
     /* Não alterar */
     max-width: 100%;
     min-height: 2.2rem;
