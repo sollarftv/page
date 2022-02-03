@@ -47,6 +47,13 @@ body {
     line-height: 2.5rem;;
 }
 
+.title h5 {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 1.5rem;
+    line-height: 2.5rem;;
+}
+
 /* LINKS*/
 .links {
     margin-bottom: 40px;
